@@ -1,4 +1,4 @@
-let tudo = document.querySelector("#tudo");
+let tudo = document.querySelector("body");
 let dark = document.querySelector("#dark");
 
 function light() {
