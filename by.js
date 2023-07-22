@@ -9,7 +9,7 @@ function light() {
     dark.innerText = "Light Mode";
   }
 }
-let img = document.querySelector("img");
+let img = document.querySelector("#github");
 let name = document.querySelector("#nome");
 let user = document.querySelector("#user");
 let bio = document.querySelector("#bio");
